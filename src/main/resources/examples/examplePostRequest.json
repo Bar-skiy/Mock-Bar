@@ -1,0 +1,28 @@
+{
+  "id": "1276",
+  "uuid": "7753c37b-3de8-4851-b2c1-d862074491ec",
+  "access": true,
+  "debit": 12500,
+  "credit": 5000,
+  "phone": "+9175259892",
+  "E-mail": "dorianGrey1891@mail.ru",
+  "address": "Russian Federation, Moscow, Arbat 22 ",
+  "date of registration": "2023-07-12 // 15:09:34",
+  "items": [
+    {
+      "id": 0,
+      "name": "Colgate, Toothbrush Soft"
+    },
+    {
+      "id": 1,
+      "name": "Colgate, Toothpaste Fresh"
+    },
+    {
+      "id": 2,
+      "name": "Oral-B, Floss Mint"
+    }
+  ]
+}
+
+
+

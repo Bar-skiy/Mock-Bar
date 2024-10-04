@@ -1,0 +1,8 @@
+{
+  "id": "%s",
+  "uuid": "%s",
+  "money": "%s",
+  "quantity of items": "%s",
+  "regDate": "%s",
+  "last logon": "%s"
+}
