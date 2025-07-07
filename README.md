@@ -9,7 +9,7 @@
 
 ## Используемые технологии
 
-- Java 17+
+- Java 
 - Spring Boot
 - Maven
 - Lombok
